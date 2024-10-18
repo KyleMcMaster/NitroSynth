@@ -33,4 +33,6 @@
 .DS_Store
 
 # JUCE build directories
-build/Debug
+Builds/iOS
+Builds/LinuxMakefile
+Builds/MacOSX/build
